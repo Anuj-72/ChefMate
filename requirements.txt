@@ -1,0 +1,12 @@
+click
+selenium
+inquirer
+InquirerPy
+colorama
+pandas
+tabulate
+rich
+setuptools
+webdriver-manager
+rich
+readchar>=4.0.0
