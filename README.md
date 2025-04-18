@@ -31,14 +31,10 @@ That’s it!
 Run ChefMate in interactive mode:
 
 ```bash
-python main.py interactive
+chefmate
 ```
 
-> If you have set up an entry point, you can also run:
-
-```bash
-chefmate interactive
-```
+Yes, it's that easy, just use 'chefmate' and you're ready to go.
 
 ## Initial Configuration
 
