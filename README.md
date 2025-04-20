@@ -30,8 +30,14 @@ That’s it!
 
 Run ChefMate in interactive mode:
 
+## For Windows Users
 ```bash
 chefmate
+```
+
+## For Linux Users
+```bash
+python3 -m chefmate.cli
 ```
 
 Yes, it's that easy, just use 'chefmate' and you're ready to go.
